@@ -23,7 +23,6 @@
     <li>📦 Feature cards with hover effects</li>
     <li>💰 Pricing plans with highlighted tiers</li>
     <li>🏢 Brand showcase carousel</li>
-    <li>🌙 Dark mode toggle</li>
     <li>✨ Smooth scroll and animations</li>
   </ul>
 
@@ -33,9 +32,6 @@
     <li><strong>Tailwind CSS</strong></li>
     <li><strong>JavaScript</strong> (for interactions & animations)</li>
   </ul>
-
-  <h2>📸 Screenshots</h2>
-  <p><em>Add your project screenshots here</em></p>
 
   <h2>📂 Installation & Usage</h2>
   <ol>
