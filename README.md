@@ -1,0 +1,1 @@
+A modern Razorpay front-end clone built with a clean and responsive design. It features a sleek navbar, interactive hero section, animated feature cards, pricing plans, and a professional footer. Enhanced with hover effects, smooth scroll animations, and brand showcases, it delivers an engaging user experience
